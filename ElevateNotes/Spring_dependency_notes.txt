@@ -1,0 +1,5 @@
+What is dependent?
+A: A class which is having instance of other class to create an object of that class.
+
+DI is feature of spring
+

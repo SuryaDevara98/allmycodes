@@ -1,0 +1,67 @@
+{
+    "mentorId":1225,
+            "mentorName":"Jiggi",
+            "mentorPhone":"7019344625",
+            "location":"hederabad",
+   
+    "mentees":[
+        {
+                "studentId":200,
+                "studentName":"Santosh",
+                "studentPhone":"9440582666",
+                "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+         {
+
+             "studentId":201,
+             "studentName":"Mark Henry",
+             "studentPhone":"9440582777",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+        {
+             "studentId":202,
+             "studentName":"Sai",
+             "studentPhone":"9440582888",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+         {
+             "studentId":203,
+             "studentName":"Iliyaz",
+             "studentPhone":"9440582999",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+         {
+             "studentId":204,
+             "studentName":"Himam Sab",
+             "studentPhone":"9440582000",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+         {
+             "studentId":205,
+             "studentName":"Neeraj",
+             "studentPhone":"9440582111",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+         {
+             "studentId":206,
+             "studentName":"Ash",
+             "studentPhone":"9440582222",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        },
+        {
+              "studentId":207,
+             "studentName":"Sameer",
+             "studentPhone":"9440582222",
+              "location":"Hyderabad",
+                "mentor":"Neelum"
+        }
+    ]
+}
+  
